@@ -1,1 +1,1 @@
-Доработанный ALT11 для обычного пользования и для Arknights: Endfield (Для этой Дискусии : [Arknights: Endfield - решение.](. 
+Доработанный ALT11 для обычного пользования и для Arknights: Endfield (Для этой Дискусии : [Arknights: Endfield - решение.](https://github.com/Flowseal/zapret-discord-youtube/discussions/9497). 
