@@ -4,4 +4,6 @@
 
 Так же работает лицензия майна.
 
-Все файлы были взяты отсюда: [zapret-discord-youtube](ttps://github.com/Flowseal/zapret-discord-youtube).
+> [!IMPORTANT]
+>
+>Все файлы были взяты отсюда: [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
