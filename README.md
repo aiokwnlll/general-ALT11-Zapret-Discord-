@@ -3,3 +3,5 @@
 Предназначен Для этой Дискусии : [Arknights: Endfield - решение.](https://github.com/Flowseal/zapret-discord-youtube/discussions/9497). 
 
 Так же работает лицензия майна.
+
+Все файлы были взяты отсюда: [zapret-discord-youtube](ttps://github.com/Flowseal/zapret-discord-youtube).
